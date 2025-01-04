@@ -1,0 +1,11 @@
+Server Address:192.168.1.2
+Port: 1433
+Client ID: 12345
+Org ID: 56789
+Warehouse ID: WH001
+Role ID: Admin
+Weight Printer Name: Printer_01
+Server: localhost
+Port: 3306
+User: root
+Database: System.Windows.Forms.TextBox, Text: DatabaseName
